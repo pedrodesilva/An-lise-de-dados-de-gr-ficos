@@ -60,3 +60,4 @@ async function quantidadeUsuarios() {
 }
 
   quantidadeUsuarios()
+  criarGrafico(data, layout)
